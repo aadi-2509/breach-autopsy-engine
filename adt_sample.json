@@ -1,0 +1,16 @@
+{
+  "company": "ADT Inc.",
+  "attack_vector": "unknown_unauthorized_access",
+  "mitre_attack_technique": null,
+  "data_compromised": [
+    "customer order information",
+    "email addresses",
+    "phone numbers",
+    "postal addresses"
+  ],
+  "operational_impact": "None reported; the company stated the incident has not materially impacted operations.",
+  "attacker_named": null,
+  "confidence": "high",
+  "filed_date": "2024-08-08",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1703056/000095015724001064/form8k.htm"
+}

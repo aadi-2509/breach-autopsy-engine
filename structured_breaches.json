@@ -1,0 +1,2573 @@
+[
+  {
+    "company": "Brandywine Realty Trust",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Disruptions and limitation of access to portions of business applications supporting operations and corporate functions, including financial and operating reporting systems, though real estate operations continued in all material respects.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-05-28",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/790816/000119312524147625/d774339d8ka.htm"
+  },
+  {
+    "company": "United Natural Foods, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Proactively taking certain systems offline temporarily impacted the Company\u2019s ability to fulfill and distribute customer orders, resulting in reduced sales volume, increased operational costs, and direct expenses related to investigation and remediation.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-06-26",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000036/unfi-20250621.htm"
+  },
+  {
+    "company": "Data I/O Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Temporarily impacted internal/external communications, shipping, receiving, manufacturing production, and various other support functions.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-08-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425009925/daio_8k.htm"
+  },
+  {
+    "company": "Sonic Automotive, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions in access to certain information systems provided by CDK Global, including dealer management system (DMS), customer relationship management system (CRM), customer lead applications, inventory management applications, and related third-party application integrations, resulting in a material impact on Q2 earnings.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-08-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350924000063/sah-20240705.htm"
+  },
+  {
+    "company": "Data I/O Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Temporarily impacted internal/external communications, shipping, receiving, manufacturing production, and various other support functions.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-09-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425010613/daio_8k.htm"
+  },
+  {
+    "company": "8x8, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "competitively sensitive information",
+      "fragmented contract and opportunity information",
+      "sales team notes",
+      "contact information (names, business addresses, phone numbers and email addresses of the customers)"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-06-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000084/eght-20260617.htm"
+  },
+  {
+    "company": "CareCloud, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "patient information"
+    ],
+    "operational_impact": "temporary network disruption in CareCloud Health division partially impacting functionality and data access to 1 of 6 electronic health record environments for approximately 8 hours",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-03-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1582982/000149315226013239/form8-k.htm"
+  },
+  {
+    "company": "iRhythm Holdings, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1566",
+    "data_compromised": [
+      "proprietary data",
+      "patient protected health information",
+      "personal information"
+    ],
+    "operational_impact": "None identified; no impact to products, clinical or medical device systems, patient safety, manufacturing, distribution, financial reporting, or the company's ability to meet patient needs.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-06-15",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000055/irtc-20260610.htm"
+  },
+  {
+    "company": "LEE ENTERPRISES, INCORPORATED",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "System outage, encrypted critical applications, limited depth of products due to tightened schedules, and delays in back-office functions including client billing, collections, and vendor payments.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-03-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/58361/000162828025010944/lee-20250212.htm"
+  },
+  {
+    "company": "Nucor Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "temporary limitation of access to IT applications supporting operations at some facilities, and proactive halting of certain production operations at various locations",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-06-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/73309/000119312525143135/d926586d8ka.htm"
+  },
+  {
+    "company": "AdaptHealth Corp.",
+    "attack_vector": "other",
+    "mitre_attack_technique": "T1539",
+    "data_compromised": [
+      "passwords",
+      "PII",
+      "health records"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-07-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1725255/000110465926080297/ahco-20260627x8k.htm"
+  },
+  {
+    "company": "Bitcoin Depot Inc.",
+    "attack_vector": "credential_compromise",
+    "mitre_attack_technique": "T1539",
+    "data_compromised": [],
+    "operational_impact": "Loss of approximately 50.903 Bitcoin valued at approximately $3.665 million transferred without authorization from Company-controlled wallets.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-04-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/btm-20260406.htm"
+  },
+  {
+    "company": "F5, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "source code",
+      "undisclosed vulnerabilities information",
+      "configuration or implementation information"
+    ],
+    "operational_impact": "As of the date of disclosure, this incident has not had a material impact on the Company's operations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-10-15",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1048695/000104869525000149/ffiv-20251015.htm"
+  },
+  {
+    "company": "AT&T INC.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1530",
+    "data_compromised": [
+      "customer call and text interaction records",
+      "telephone numbers",
+      "counts of interactions",
+      "aggregate call duration",
+      "cell site identification numbers"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/732717/000073271724000046/t-20240506.htm"
+  },
+  {
+    "company": "River Financial Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Certain operations have been impacted; administrative accounts disabled and impacted systems taken offline.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-06-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526282946/ck0001641601-20260619.htm"
+  },
+  {
+    "company": "RIVER FINANCIAL CORPORATION",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-07-17",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526307288/ck0001641601-20260619.htm"
+  },
+  {
+    "company": "RIVER FINANCIAL CORPORATION",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-07-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526295704/ck0001641601-20260619.htm"
+  },
+  {
+    "company": "Federal Home Loan Bank of New York",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-03-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495424002505/fhlbny_8k.htm"
+  },
+  {
+    "company": "RIVER FINANCIAL CORPORATION",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1567",
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-07-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526300763/ck0001641601-20260619.htm"
+  },
+  {
+    "company": "GLOBE LIFE INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1078",
+    "data_compromised": [
+      "consumer information",
+      "policyholder information"
+    ],
+    "operational_impact": "Removal of external web access to the affected portal, though operations will not be significantly impacted.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-06-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/320335/000032033524000029/gl-20240614.htm"
+  },
+  {
+    "company": "DICK'S SPORTING GOODS, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "confidential information"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-08-28",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906324000104/dks-20240821.htm"
+  },
+  {
+    "company": "Karat Packaging Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-10-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1758021/000121390024089965/ea0218366-8k_karat.htm"
+  },
+  {
+    "company": "Navient Corporation",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "PII",
+      "SSN",
+      "customer names",
+      "date of birth",
+      "addresses"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-07-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1593538/000114036126027441/ef20077249_8k.htm"
+  },
+  {
+    "company": "WYTEC INTERNATIONAL, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Website defaced and taken offline, inability to operate website, and cancellation of a seminar scheduled for September 2, 2025.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-08-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1560143/000168316825006583/wytec_8k.htm"
+  },
+  {
+    "company": "Key Tronic Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions and limitation of access to portions of business applications supporting operations and corporate functions, including financial and operating reporting systems.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-05-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000015/ktcc-20240506.htm"
+  },
+  {
+    "company": "ENGlobal Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Access to the Company's IT system is limited to essential business operations and the timing of restoration of full access remains unclear.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-12-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/933738/000165495424015098/eng_8k.htm"
+  },
+  {
+    "company": "WYTEC INTERNATIONAL, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1491",
+    "data_compromised": [],
+    "operational_impact": "Website defaced and subsequently taken down, requiring restoration from backups, rebuilding on a new server and hosting platform, and enhancing security protocols.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-02-03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1560143/000168316826000732/wytec_8ka1.htm"
+  },
+  {
+    "company": "Frontier Communications Parent, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Shutting down certain of the Company\u2019s systems as a containment measure resulted in an operational disruption that could be considered material.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-04-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/20520/000119312524100764/d784189d8k.htm"
+  },
+  {
+    "company": "UnitedHealth Group Incorporated",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Certain networks and transactional services may not be accessible, and the company proactively isolated impacted Change Healthcare systems to contain the incident.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-02-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000045/unh-20240221.htm"
+  },
+  {
+    "company": "National Presto Industries, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Temporarily impacted operations including shipping and receiving, some manufacturing processes, and various other back office functions.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-03-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/80172/000143774925006475/npk20250306_8k.htm"
+  },
+  {
+    "company": "MarineMax, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to a portion of the Company's business resulting from containment measures, though operations continued in all material respects.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-03-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1057060/000095017024030041/hzo-20240310.htm"
+  },
+  {
+    "company": "First American Financial Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Systems isolated from the Internet; interruption in normal business operations with ongoing efforts to restore access and resume operations.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2023-12-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017023073848/faf-20231220.htm"
+  },
+  {
+    "company": "CB Financial Services, Inc.",
+    "attack_vector": "other",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "customer names",
+      "social security numbers",
+      "dates of birth",
+      "non-public customer information"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-05-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000021/cbfv-20260507.htm"
+  },
+  {
+    "company": "UNITEDHEALTH GROUP INCORPORATED",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption of Change Healthcare services requiring restoration progress and ongoing data assessment.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-04-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000150/unh-20240221.htm"
+  },
+  {
+    "company": "LEE ENTERPRISES, INCORPORATED",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Systems outage impacting product distribution, billing, collections, and vendor payments. Print publication distribution experienced delays, online operations partially limited, weekly and ancillary products not yet restored, and temporary manual processing required.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-02-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/58361/000162828025005855/lee-20250212.htm"
+  },
+  {
+    "company": "Cencora, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "personal information"
+    ],
+    "operational_impact": "None reported; the incident has not had a material impact on operations and information systems continue to be operational.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-02-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465924028288/tm247267d1_8k.htm"
+  },
+  {
+    "company": "First American Financial Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Isolated systems from the Internet, disruption to normal operations, and primary website may be inaccessible or inoperative.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2023-12-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017023072513/faf-20231220.htm"
+  },
+  {
+    "company": "Prudential Financial, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "administrative and user data",
+      "employee and contractor user accounts"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-02-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524033753/d770643d8k.htm"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "attack_vector": "other",
+    "mitre_attack_technique": "T1114",
+    "data_compromised": [
+      "personal information",
+      "email communications"
+    ],
+    "operational_impact": "The incident has not had a material impact on the Company's operations as of the date of the filing.",
+    "attacker_named": "nation-state associated threat actor (Midnight Blizzard)",
+    "confidence": "high",
+    "filed_date": "2024-01-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312524011295/d708866d8k.htm"
+  },
+  {
+    "company": "Meta Materials Inc.",
+    "attack_vector": "insider",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Website, email system, and other related IT systems were significantly disrupted and taken offline, impacting delivery and receipt of electronic email communications from customers, investors, and stakeholders.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-08-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1431959/000095017024089345/mmat-20240725.htm"
+  },
+  {
+    "company": "HALLIBURTON COMPANY",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions and limitation of access to portions of the company's business applications supporting aspects of operations and corporate functions; systems proactively taken offline.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-09-03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/45012/000004501224000052/hal-20240830.htm"
+  },
+  {
+    "company": "Upbound Group, Inc",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "non-sensitive customer information",
+      "other documents"
+    ],
+    "operational_impact": "Elevated fraudulent contract losses of approximately $13 million in the Company's Acima segment during the second quarter of 2026 due to information being used to facilitate fraudulent lease-to-own agreements.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-07-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/933036/000119312526310605/upbd-20260721.htm"
+  },
+  {
+    "company": "BayFirst Financial Corp.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "name",
+      "date of birth",
+      "social security/tax identification numbers"
+    ],
+    "operational_impact": "None quantified; incident was limited to the third-party provider's environment.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-10-30",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1649739/000164973925000246/bafn-20251028.htm"
+  },
+  {
+    "company": "Hewlett Packard Enterprise Company",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1566",
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": "Midnight Blizzard",
+    "confidence": "high",
+    "filed_date": "2024-01-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000009/hpe-20240119.htm"
+  },
+  {
+    "company": "UNITEDHEALTH GROUP INCORPORATED",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to pharmacy, medical claims, and payment services related to Change Healthcare.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-03-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000085/unh-20240221.htm"
+  },
+  {
+    "company": "Prudential Financial, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "client information",
+      "personally identifiable information",
+      "Company administrative data",
+      "user data",
+      "employee and contractor user accounts"
+    ],
+    "operational_impact": "As of the date of this Report, the incident has not had a material impact on the Company\u2019s operations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-02-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524040749/d766318d8ka.htm"
+  },
+  {
+    "company": "ZOOMCAR HOLDINGS, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "To date, the incident has not resulted in any material disruption to the Company\u2019s operations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-06-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1854275/000121390025054319/ea0245724-8k_zoomcar.htm"
+  },
+  {
+    "company": "MarineMax, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "customer information",
+      "employee information"
+    ],
+    "operational_impact": "Containment measures resulted in some disruption to a portion of the Company's business, though operations continued in all material respects.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-04-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1057060/000095017024038881/hzo-20240310.htm"
+  },
+  {
+    "company": "Nucor Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Temporarily and proactively halted certain production operations at various locations, with operations currently in the process of being restarted.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-05-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/73309/000119312525119311/d795264d8k.htm"
+  },
+  {
+    "company": "Key Tronic Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Halted domestic and Mexico operations for approximately two weeks; disruptions and limitation of access to business applications supporting operations, corporate functions, and financial/operating reporting systems.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-06-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000035/ktcc-20240506.htm"
+  },
+  {
+    "company": "WEST PHARMACEUTICAL SERVICES, INC.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Systems taken offline globally for containment; core enterprise systems and critical processes for manufacturing, receiving, and shipping temporarily disrupted before being restarted and fully restored.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-05-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000077/wst-20260507.htm"
+  },
+  {
+    "company": "Trio-Tech International",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Network taken offline proactively; no material disruption to operations reported as of the filing date.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-03-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/732026/000143774926009193/trt20260320_8k.htm"
+  },
+  {
+    "company": "SENSATA TECHNOLOGIES HOLDING PLC",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Temporarily impacted operations, including shipping, receiving, manufacturing production, and various other support functions.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-04-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1477294/000147729425000047/st-20250406.htm"
+  },
+  {
+    "company": "First American Financial Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Certain transactions planned for the fourth quarter of 2023 were delayed, resulting in revenue recognition being pushed to the first quarter of 2024. Other transactions were moved to alternative providers, causing a loss of revenue. Receipt of notices of title policy issuance from agents was delayed, delaying related revenue recognition. The company also incurred one-time expenses and temporarily isolated systems from the internet.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-01-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017024004247/faf-20231220.htm"
+  },
+  {
+    "company": "Radiant Logistics, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Service delays for customers in Canada due to network isolation and security protocols",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-03-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1171155/000095017024033954/rlgt-20240319.htm"
+  },
+  {
+    "company": "Key Tronic Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Disruptions and limitation of access to IT systems supporting business applications, financial and operating reporting systems; domestic and Mexico operations halted for approximately two weeks.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-08-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000047/ktcc-20240506.htm"
+  },
+  {
+    "company": "OraSure Technologies, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1567",
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-04-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1116463/000119312524094797/d825009d8k.htm"
+  },
+  {
+    "company": "Sonic Automotive, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions in access to information systems provided by CDK Global, including the dealer management system (DMS), customer relationship management system (CRM), and other systems supporting sales, inventory, and accounting functions, resulting in a slower rate of vehicle sales.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350924000060/sah-20240705.htm"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "employee email accounts",
+      "source code"
+    ],
+    "operational_impact": null,
+    "attacker_named": "Midnight Blizzard",
+    "confidence": "medium",
+    "filed_date": "2024-03-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312524062997/d808756d8ka.htm"
+  },
+  {
+    "company": "ENGlobal Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Limited ability to access portions of business applications supporting operations and corporate functions, including financial and operating reporting systems, for approximately six weeks.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-01-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/933738/000165495425000798/eng_8ka.htm"
+  },
+  {
+    "company": "Jewett-Cameron Trading Co. Ltd.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "IT related information",
+      "financial information"
+    ],
+    "operational_impact": "Disruptions and limitation of access to portions of business applications supporting aspects of operations and corporate functions, which were voluntarily taken offline as a precautionary measure.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-10-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/885307/000107997325001631/jctc_8k.htm"
+  },
+  {
+    "company": "Krispy Kreme, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Operational disruptions including online ordering in parts of the United States",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-12-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1857154/000185715424000123/dnut-20241211.htm"
+  },
+  {
+    "company": "Able Laboratories, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2006-07-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/857171/000091412106002441/ab92071-8k.txt"
+  },
+  {
+    "company": "Cencora, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1567",
+    "data_compromised": [
+      "PII",
+      "PHI"
+    ],
+    "operational_impact": "The incident has not had a material impact on the Company\u2019s operations, and its information systems have continued to be fully operational.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-07-31",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465924084351/tm2420501d1_8ka.htm"
+  },
+  {
+    "company": "SouthState Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "significant impact on certain of SouthState's business processes",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-03-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/764038/000155837024004390/ssb-20240206x8ka.htm"
+  },
+  {
+    "company": "V.F. Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "personal data"
+    ],
+    "operational_impact": "Disruption of business operations through encryption of some IT systems and data theft; proactive shutdown of some systems; impact on the ability to fulfill orders on brand e-commerce sites; operational disruptions at VF-operated retail stores globally despite them remaining open.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-12-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/d659095d8k.htm"
+  },
+  {
+    "company": "CONDUENT INCORPORATED",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Operational disruption that was resolved within days or hours, with no material impact to operations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-04-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770325000067/cndt-20250409.htm"
+  },
+  {
+    "company": "Coupang, Inc.",
+    "attack_vector": "insider",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "name",
+      "phone number",
+      "delivery address",
+      "email address",
+      "order histories"
+    ],
+    "operational_impact": "Operations have not been materially disrupted, though management's attention has been diverted and the former chief executive officer of the Korean subsidiary resigned.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-12-16",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000196/cpng-20251215.htm"
+  },
+  {
+    "company": "The Oncology Institute, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "patient personal information",
+      "healthcare and other personal information"
+    ],
+    "operational_impact": "None stated; operations have continued in all material respects.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-05-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326000721/toi_8k.htm"
+  },
+  {
+    "company": "B. Riley Financial, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "temporary interruption in the business operations of the Targus network due to proactive containment measures",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-04-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1464790/000121390024031252/ea0203500-8k_briley.htm"
+  },
+  {
+    "company": "CRIMSON WINE GROUP, LTD.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Shutting down certain systems to isolate operations from the Internet, resulting in disruption to business operations and limitation of access to portions of business applications supporting operations and corporate functions, including financial and operating reporting systems.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1562151/000156215124000032/cwgl-20240725.htm"
+  },
+  {
+    "company": "West Pharmaceutical Services, Inc.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Temporarily disrupted business operations globally due to proactive containment (taking systems offline); core enterprise systems restored, critical processes for shipping, receiving, and manufacturing restarted at some sites with restoration of remaining sites in process.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-05-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000068/wst-20260507.htm"
+  },
+  {
+    "company": "Dropbox, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "emails",
+      "usernames",
+      "general account settings",
+      "phone numbers",
+      "hashed passwords",
+      "API keys",
+      "OAuth tokens",
+      "multi-factor authentication information"
+    ],
+    "operational_impact": "None reported that materially impacted overall business operations or financial condition, limited to Dropbox Sign infrastructure.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-05-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1467623/000146762324000024/dbx-20240429.htm"
+  },
+  {
+    "company": "BASSETT FURNITURE INDUSTRIES, INCORPORATED",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Manufacturing facilities shut down, order fulfillment impacted, and business operations disrupted due to data encryption and system containment measures.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-15",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/10329/000143774924022743/bset20240715_8k.htm"
+  },
+  {
+    "company": "Bassett Furniture Industries, Incorporated",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to certain operations, including interrupted manufacturing at domestic plants, delayed order fulfillment for the retail network, and delayed wholesale shipments.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-08-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/10329/000143774924024679/bset20240805_8ka.htm"
+  },
+  {
+    "company": "Coinbase Global, Inc.",
+    "attack_vector": "insider",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "SSN",
+      "financial records",
+      "health records",
+      "Government-ID images",
+      "Account data",
+      "Corporate data"
+    ],
+    "operational_impact": "None reported as of the date of the filing, though preliminary estimated expenses range from $180 million to $400 million.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-05-15",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm"
+  },
+  {
+    "company": "UFP Technologies, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Affected functions such as billing and label making for customer deliveries; certain IT systems impacted.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-02-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/914156/000162828026011152/ufpt-20260219.htm"
+  },
+  {
+    "company": "Coupang, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "customer account data"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-12-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000202/cpng-20251215.htm"
+  },
+  {
+    "company": "Brandywine Realty Trust",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [
+      "personal information",
+      "sensitive information"
+    ],
+    "operational_impact": "Disruptions to and limitation of access to portions of business applications supporting corporate functions and operations, including financial and operating reporting systems; temporary shutdown of some systems.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-05-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/790816/000119312524133132/d824906d8k.htm"
+  },
+  {
+    "company": "Stryker Corporation",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions to business operations, global manufacturing network, and commercial, ordering, and distribution systems; impact on first quarter 2026 financial results.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-04-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526149607/d112875d8ka.htm"
+  },
+  {
+    "company": "V.F. Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "Disruption to operations including interrupted replenishment of retail store inventory, delayed order fulfillment, customer/consumer cancellations of product orders, reduced demand on e-commerce sites, and delayed wholesale shipments.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-01-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/103379/000119312524010243/d641969d8ka.htm"
+  },
+  {
+    "company": "SouthState Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": "Proactively isolated parts of the network, resulting in some disruption to business processes.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-02-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/764038/000095010324002017/dp206600_8k.htm"
+  },
+  {
+    "company": "Local Financial Corporation",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2002-07-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1047125/000095013402008606/d98407exv99.txt"
+  },
+  {
+    "company": "iLearningEngines, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Misdirected a $250,000 wire payment (unrecovered), deleted email messages, diversion of management\u2019s attention, potential litigation, changes in customer or investor behavior, and regulatory scrutiny.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-11-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390024099394/ea0221424-8k_ilearning.htm"
+  },
+  {
+    "company": "GLOBAL NUTECH, INC.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2011-12-30",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1429627/000114420411072392/v244309_ex2-1.htm"
+  },
+  {
+    "company": "Cincinnati Financial Corporation",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2005-02-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/20286/000127528705000360/cf1953ex991.txt"
+  },
+  {
+    "company": null,
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-02-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1750735/000110465925015733/tm256723d2_ex10-1.htm"
+  },
+  {
+    "company": "Global Nutech, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2012-02-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1429627/000114420412007007/v301795_ex2-1.htm"
+  },
+  {
+    "company": "The Scotts Company",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2002-09-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/825542/000095012302008900/l96214aexv13.txt"
+  },
+  {
+    "company": "The Scotts Company",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2002-06-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/825542/000095015202004984/l94887aexv13.txt"
+  },
+  {
+    "company": null,
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2014-02-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/61398/000006139814000006/ex101-mpntshareandsalede.htm"
+  },
+  {
+    "company": "CID Holdco, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-07-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026080208/ea029882601ex10-1.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2019-07-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318519000022/exhibit99120190630.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2019-05-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318519000014/exhibit99120190331.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2020-04-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318520000024/exhibit99120200331.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2020-02-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318520000004/a2019q48-kexhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2020-07-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318520000038/exhibit99120200630.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-02-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318521000017/a2020q48-kaexhibit991.htm"
+  },
+  {
+    "company": "Molson Coors Beverage Company",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Systems outages causing delays and disruptions in brewery operations, production, and shipments in the U.K., Canada, and the U.S.; shifting between 1.8 and 2.0 million hectoliters of production and shipments and between $120 million to $140 million of underlying EBITDA from the first quarter 2021 to the balance of the fiscal year.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2021-03-26",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/24545/000115752321000389/a52402019ex99_1.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2018-10-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318518000039/exhibit99120180930.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2019-10-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318519000030/exhibit99120190930.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2019-02-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318519000004/a2018q48-kexhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-02-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318521000013/a2020q48-kexhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2018-04-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318518000017/exhibit99120180331.htm"
+  },
+  {
+    "company": "NioCorp Developments Ltd.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "misdirected vendor payments totaling approximately $0.5 million",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-02-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1512228/000153949725000735/n2574_x251-8k.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2018-07-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318518000025/exhibit99120180630.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2022-02-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000006/a2021q48-kexhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2020-10-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318520000049/exhibit99120200930.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "sensitive personal information"
+    ],
+    "operational_impact": "Recording approximately $12 to $17 million of expenses in the first quarter of 2024 (net of expected insurance recovery) and named as a defendant in several lawsuits seeking monetary and injunctive relief.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-02-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000020/ldi-20240104.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-04-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318521000030/exhibit99120210331.htm"
+  },
+  {
+    "company": "INOTIV, INC.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Disruptions to certain business operations, temporarily impacted the availability of and access to certain networks and systems, including access to portions of internal data storage and certain internal business applications.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-08-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/720154/000162828025040658/notv-20250808.htm"
+  },
+  {
+    "company": "INOTIV, INC.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "health records"
+    ],
+    "operational_impact": "disruptions to certain business operations of the Company, affecting networks, systems, and functions",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-09-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/720154/000162828025042837/notv-20250821.htm"
+  },
+  {
+    "company": "Stryker Corporation",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Global disruption to the Company's Microsoft environment, including order processing, manufacturing, and shipping.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-03-12",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526104431/d101097d8k.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2017-11-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318517000033/exhibit99120170930.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Incident affected certain of the Company's systems, involving delays in verifying information technology systems.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-01-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000011/ldi-20240104.htm"
+  },
+  {
+    "company": "Popular, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "personal information",
+      "debit card numbers"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-06-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526263044/d46942d8k.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2018-03-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318518000013/a2017q48-kexhibit991.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-11-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000218/a3q25investorpresentatio.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-04-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000019/exhibit99120230331.htm"
+  },
+  {
+    "company": "Stryker Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Global disruption to the company's Microsoft environment, causing disruptions and limitations of access to certain information systems and business applications supporting operations and corporate functions.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-03-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526102460/d76279d8k.htm"
+  },
+  {
+    "company": "Stryker Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to the Company's corporate network environment, including but not limited to the Microsoft environment.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-03-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526118634/d94012d8k.htm"
+  },
+  {
+    "company": "ADT Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "customer order information",
+      "email addresses",
+      "phone numbers",
+      "postal addresses"
+    ],
+    "operational_impact": "None reported; the company stated the incident has not materially impacted operations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-08-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703056/000095015724001064/form8k.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-07-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318521000039/exhibit99120210630.htm"
+  },
+  {
+    "company": "INOTIV, INC.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-05-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/720154/000110465926063032/tm2614614d1_8k.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-05-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163126000057/a1q26investorpresentatio.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2022-07-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000038/exhibit99120220630.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-03-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163126000025/a4q25investorpresentatio.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-07-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000029/exhibit99120230630.htm"
+  },
+  {
+    "company": "LOGITECH INTERNATIONAL S.A.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1190",
+    "data_compromised": [
+      "limited information about employees and consumers",
+      "data relating to customers and suppliers"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-11-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1032975/000103297525000085/logi-20251114.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-02-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000004/a2022q48-kexhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-10-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318521000051/exhibit99120210930.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2022-04-20",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000019/exhibit99120220331.htm"
+  },
+  {
+    "company": "FXCM Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1078",
+    "data_compromised": [
+      "customer information"
+    ],
+    "operational_impact": "small number of unauthorized wire transfers from customer accounts (all funds returned)",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2015-10-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1499912/000114420415057524/v421353_ex99-1.htm"
+  },
+  {
+    "company": "DocGo Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "protected health information",
+      "healthcare records"
+    ],
+    "operational_impact": "None reported; incident has not had a material impact on operations.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-05-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1822359/000182235924000037/dcgo-20240507.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-11-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000266/a3q24investorpresentatio.htm"
+  },
+  {
+    "company": "Krispy Kreme, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "operational disruptions, including with online ordering in parts of the U.S.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-02-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1857154/000185715425000009/exh991q4pressrelease2024.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-02-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000009/a2024q48-kexhibit991.htm"
+  },
+  {
+    "company": "MUELLER WATER PRODUCTS, INC.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Disruptions and limitation of access to portions of business applications supporting operations and corporate functions, limiting the company's ability to take orders and ship products, and delaying the filing of the Annual Report on Form 10-K.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-11-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059323000054/mwa-20231129.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "SSN",
+      "financial records",
+      "driver's licenses",
+      "passports",
+      "taxpayer ID cards",
+      "names",
+      "dates of birth",
+      "address information",
+      "gender",
+      "phone numbers",
+      "email addresses",
+      "payment card number and expiration date"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2018-05-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000119312518154706/d583804d8k.htm"
+  },
+  {
+    "company": "MiniMed Group, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-04-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2062583/000110465926049045/tm2612783d1_8k.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-08-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000198/a2024q2formearningsrelease.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-04-17",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000025/exhibit99120240331.htm"
+  },
+  {
+    "company": "Affirm Holdings, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "personal information",
+      "financial information"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1820953/000182095324000027/afrm-20240625.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "SSN",
+      "driver's license information"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2018-03-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000119312518065580/d530771dex991.htm"
+  },
+  {
+    "company": "SBTech (Global) Limited",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "The operation of sports betting and iGaming services of SBTech's customers was interrupted. SBTech shut down its data centers and compensated customers for down time.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2020-05-15",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1772757/000110465920062041/tm2019399d1_ex99-4.htm"
+  },
+  {
+    "company": "Freeport-McMoRan Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Limited impact on production to date; transitional solutions being planned and implemented; potential for future disruption.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-08-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000119312523210875/d440084dex991.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2022-10-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000054/exhibit99120220930.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-02-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000008/a2023q48-kexhibit991.htm"
+  },
+  {
+    "company": "Ideanomics, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": "caused a delay or disruption to parts of Timios\u2019 business, including its ability to perform its mortgage title, closing and escrow services offerings, and resulted in a systems outage.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-08-04",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/837852/000110465921100065/tm2124118d1_8k.htm"
+  },
+  {
+    "company": "Henry Schein, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Business interruption resulting in an estimated reduction of net sales by $350 million to $400 million in the fourth quarter and negative financial impacts on GAAP and non-GAAP net income/diluted EPS.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-02-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1000228/000100022824000008/exhibit991.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-04-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000035/exhibit99120250331.htm"
+  },
+  {
+    "company": "Maximus",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": "Approximately $22 million expense incurred for total investigation and remediation costs, affecting earnings and guidance.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2023-08-03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222023000064/mms-2023x06x30x8kxex991.htm"
+  },
+  {
+    "company": "RTX Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Customers shifted to back-up or manual processes, experiencing certain flight delays and cancellations.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-09-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000036/rtx-20250919.htm"
+  },
+  {
+    "company": "BK Technologies Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "records pertaining to current and former employees"
+    ],
+    "operational_impact": "a limited number of non-critical systems experienced minor disruption; operations have continued throughout the period in all material respects",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-10-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2186/000143774925030540/bkti20251006_8k.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-08-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000198/a2q24investorpresentatio.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-11-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000266/a2024q3formearningsrelease.htm"
+  },
+  {
+    "company": "ADT Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1078",
+    "data_compromised": [
+      "employee user account data"
+    ],
+    "operational_impact": "Containment measures have resulted in some disruptions to the Company's information systems.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-10-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1703056/000119312524233900/d876174d8k.htm"
+  },
+  {
+    "company": "Medtronic plc",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2026-04-27",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026027272/mdt-20260424.htm"
+  },
+  {
+    "company": "RCI HOSPITALITY HOLDINGS, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": "T1190",
+    "data_compromised": [
+      "PII",
+      "names and contact information",
+      "dates of birth",
+      "SSN",
+      "driver's license numbers"
+    ],
+    "operational_impact": "The incident did not impact the business operations of the Company.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-04-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/935419/000162828026024806/rick-20260407.htm"
+  },
+  {
+    "company": "Boyd Gaming Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": "None stated (has had no impact on the Company's properties or business operations)",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-09-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/906553/000119312525213546/d20726d8k.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-10-16",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000055/exhibit99120240930.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-02-04",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000004/a2025q48-kexhibit991.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-10-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883424000111/a2024q3ex991thirdquarter20.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-02-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883425000008/a2024q4ex991fourthquarter2.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "The Company shut down certain systems and continues to implement measures to secure its business operations and bring systems back online.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-01-08",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000004/ldi-20240104.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-10-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000040/exhibit99120230930.htm"
+  },
+  {
+    "company": "Phoenix Education Partners, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": "T1190",
+    "data_compromised": [
+      "names",
+      "contact information",
+      "dates of birth",
+      "social security numbers",
+      "bank account and routing numbers"
+    ],
+    "operational_impact": "The incident did not impact the business operations or student programming of the Company.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-12-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1600222/000095014225003098/eh250711375_8k.htm"
+  },
+  {
+    "company": "Henry Schein, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to dental and medical distribution businesses, proactive shutdown of business-critical systems, and ecommerce platform downtime, resulting in an estimated $0.55 to $0.75 per share business interruption impact.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-11-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1000228/000100022823000046/exhibit991.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "credit cards"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2017-10-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000119312517301130/d335628dex991.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-08-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000152/a2q25investorpresentatio.htm"
+  },
+  {
+    "company": "Mueller Water Products, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disrupted access to certain operational and information technology systems, impacting the Company\u2019s ability to finalize its fiscal 2023 financial statements and postponing its quarterly earnings conference call.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-11-03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059323000048/pressrelease110323.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-04-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000016/exhibit99120260331.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-05-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000080/a2025q1earningsreleaseex991.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-03-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000020/a2024q4formearningsrelease.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-10-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000061/exhibit99120250930.htm"
+  },
+  {
+    "company": "JOHNSON CONTROLS INTERNATIONAL PLC",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Disruptions and limitation of access to portions of business applications supporting aspects of operations and corporate functions, including systems supporting or providing data used in financial reporting, leading to an expected delay in reporting fiscal 2023 fourth quarter and year-end results.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2023-11-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344423000038/jci-20231113.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-07-23",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883425000095/a2025q2ex991secondquarter2.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-05-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163126000057/a2026q1earningsreleaseex991.htm"
+  },
+  {
+    "company": "MOLSON COORS BEVERAGE COMPANY",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "delay or disruption to parts of the Company's business, including its brewery operations, production, and shipments",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-03-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/24545/000110465921034789/tm219417d1_8k.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-02-18",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883426000011/a2025q4ex991fourthquarter2.htm"
+  },
+  {
+    "company": "Haynes International, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Network outage lasting 11 days causing substantial disruption to manufacturing locations, reduced production volume by 2.5%, reduced net revenues by an estimated $18-$20 million, and compressed gross margins due to lower efficiency and absorption of fixed costs.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-08-03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858655/000155837023013222/hayn-20230803xex99d1.htm"
+  },
+  {
+    "company": "Orrstown Financial Services, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2026-05-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/826154/000114036126023313/ef20075213_8k.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2025-11-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000218/a2025q3earningsreleaseex991.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-07-17",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000042/exhibit99120240630.htm"
+  },
+  {
+    "company": "Willis Lease Finance Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Took certain systems offline, implemented workarounds for some processes where necessary, but continues to operate and service customers.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-02-09",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816424000005/wlfc-20240209.htm"
+  },
+  {
+    "company": "DaVita Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "temporary disruption of operations",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-08-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000122/dva-63025ex991.htm"
+  },
+  {
+    "company": "Ardent Health Partners, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-01-13",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1756655/000162828025001368/exhibit99-jpmpresentatio.htm"
+  },
+  {
+    "company": "DaVita Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "temporary disruption of operations",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-10-29",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000163/dva-93025ex991.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-07-21",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000024/exhibit99120260630.htm"
+  },
+  {
+    "company": "The Est\u00e9e Lauder Companies Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruption to parts of the Company's business operations, requiring the proactive shutdown of some systems.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-07-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1001250/000114036123035105/brhc20056073_ex99-1.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-08-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000152/a2025q2earningsreleaseex991.htm"
+  },
+  {
+    "company": "Group 1 Automotive, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disrupted business applications and processes in U.S. operations that rely on CDK\u2019s dealers\u2019 systems, requiring dealerships to use alternative processes.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2024-06-24",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120324000048/exhibit991.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-03-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163126000025/a2025q4earningsreleaseex991.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-03-11",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000020/a4q24investorpresentatio.htm"
+  },
+  {
+    "company": "CRIMSON WINE GROUP, LTD.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-07-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1562151/000156215124000030/cwgl-20240630.htm"
+  },
+  {
+    "company": "Ardent Health Partners, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": null,
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-05-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1756655/000162828025022722/ardt-q125x8kxex991.htm"
+  },
+  {
+    "company": "Equifax",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-07-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000049/exhibit99120250630.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-10-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883425000110/a2025q3ex991thirdquarter20.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-05-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000080/a1q25investorpresentatio.htm"
+  },
+  {
+    "company": "Mueller Water Products, Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "caused and expected to continue to cause delays in parts of the Company's business operations that may adversely impact financial results",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-10-30",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059323000046/mwareportscybersecurityi.htm"
+  },
+  {
+    "company": "TTEC Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "One-time revenue loss and expenses related to a cybersecurity incident.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2021-11-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1013880/000110465921136968/tm2132463d1_ex99-1.htm"
+  },
+  {
+    "company": "Artivion, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "A short-term backlog in tissue processing operations leading to a 23% decrease in preservation services revenue, which has since returned to normal operations and standard tissue processing times.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-05-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/784199/000078419925000069/aort-2025x8k033125ex991.htm"
+  },
+  {
+    "company": "Caesars Entertainment, Inc.",
+    "attack_vector": "third_party_vendor",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII",
+      "driver's license numbers",
+      "social security numbers",
+      "loyalty program database"
+    ],
+    "operational_impact": "None reported for customer-facing operations, physical properties, or online and mobile gaming applications.",
+    "attacker_named": null,
+    "confidence": "high",
+    "filed_date": "2023-09-14",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1590895/000119312523235015/d537840d8k.htm"
+  },
+  {
+    "company": "Ardent Health Partners, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-11-06",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1756655/000175665524000010/ardt-q324x8kxex991.htm"
+  },
+  {
+    "company": "Data I/O Corporation",
+    "attack_vector": "ransomware",
+    "mitre_attack_technique": "T1486",
+    "data_compromised": [],
+    "operational_impact": "Systems temporarily affected and required remediation, restoration, and investigation totaling approximately $180,000 in expenses, though order flow and deliveries remained on track with no believed loss of revenue.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2025-09-10",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425010613/daio_ex990.htm"
+  },
+  {
+    "company": "FXCM Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2016-02-01",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1499912/000114420416078205/v430283_ex99-1.htm"
+  },
+  {
+    "company": "CADRE HOLDINGS, INC.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Certain of the Company\u2019s operations have been affected, and certain systems were taken offline.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-07-19",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1860543/000110465924081176/tm2419841d1_8k.htm"
+  },
+  {
+    "company": "Ardent Health, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2025-08-05",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1756655/000175665525000013/ardt-q225x8kxex991.htm"
+  },
+  {
+    "company": "Phoenix Education Partners, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2026-04-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1600222/000119312526145522/pxed-ex99_1.htm"
+  },
+  {
+    "company": "Navistar International Corporation",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2021-06-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/808450/000119312521183688/d13020d8k.htm"
+  },
+  {
+    "company": "PROG Holdings, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2023-10-25",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883423000104/a2023q3ex991thirdquarter20.htm"
+  },
+  {
+    "company": "loanDepot, Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Systems were taken offline temporarily, inability to take customer locks, lost revenue, and additional expenses totaling $15 million in direct net charges and an estimated $22 million impact on revenue.",
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2024-05-07",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1831631/000183163124000110/a2024q1formearningsrelease.htm"
+  },
+  {
+    "company": "Equifax Inc.",
+    "attack_vector": "unknown_unauthorized_access",
+    "mitre_attack_technique": null,
+    "data_compromised": [
+      "PII"
+    ],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2019-07-22",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/33185/000119312519198584/d734596d8k.htm"
+  },
+  {
+    "company": "Key Tronic Corporation",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": "Disruptions and limited access to portions of business applications supporting operations and corporate functions, including financial and operating reporting systems, at Mexico and U.S. sites, resulting in approximately $15 million of lost revenue and $2.3 million of additional expenses.",
+    "attacker_named": null,
+    "confidence": "medium",
+    "filed_date": "2024-08-02",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000044/q42024preliminaryexhibit991.htm"
+  },
+  {
+    "company": "FXCM Inc.",
+    "attack_vector": "insufficient_data",
+    "mitre_attack_technique": null,
+    "data_compromised": [],
+    "operational_impact": null,
+    "attacker_named": null,
+    "confidence": "low",
+    "filed_date": "2016-01-26",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1499912/000114420416077020/v429700_ex99-1.htm"
+  }
+]
