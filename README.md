@@ -83,4 +83,4 @@ MIT — see LICENSE file. Data sourced from public SEC filings; underlying filin
 
 ---
 
-Built by Aaditya Modi — [LinkedIn](#) · [GitHub](#)
+Built by Aaditya Modi — [LinkedIn](https://www.linkedin.com/in/aaditya-modi/) · [GitHub](github.com/aadi-2509)
