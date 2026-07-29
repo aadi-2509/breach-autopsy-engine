@@ -30,8 +30,9 @@ Public cybersecurity disclosures are legally required but written to be as vague
 - **Dashboard:** Flask, vanilla JS
 
 ## Screenshots
-
-*(Add 2-3 screenshots here: the dashboard overview, the attack vector chart, one filing entry next to its source)*
+![Dashboard overview](Screenshots/Screenshot_2.png)
+   ![Filing register](Screenshots/Screenshot_1.png)
+   ![Extraction proof](Screenshots/Screenshot_3.png)
 
 ## Running it locally
 
